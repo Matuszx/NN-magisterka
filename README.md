@@ -10,6 +10,8 @@ Ten projekt wykorzystuje dane z bazy **MovieLens 100k** do budowy i trenowania p
 
 Używamy dwóch głównych plików z MovieLens 100k:
 
+https://grouplens.org/datasets/movielens/100k/
+
 1. **`u.data`** - Zawiera oceny użytkowników dla filmów.
 2. **`u.item`** - Zawiera szczegóły dotyczące filmów, takie jak tytuł i gatunki.
 
